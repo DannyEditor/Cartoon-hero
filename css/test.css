@@ -1,0 +1,11 @@
+body{background-color: gray;}
+h3{	
+	font-size: 100px;
+	 color: green;
+}
+
+
+.big{font-size: 60px;}
+.upper{color: blueviolet;}
+.big.upper{	text-transform: uppercase;}
+span{	font-size: 70px;}
