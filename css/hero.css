@@ -75,9 +75,6 @@ p.caption{
 	color: gray;
 	font-style: italic;
 	margin-top: 0px;
+	text-align: right;
 }
 
-.klecovce{
-	text-align: right;
-	margin: 5px;
-}
